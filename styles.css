@@ -1,0 +1,96 @@
+/* *{
+    outline: 1px solid red;
+} */
+body{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    color: black;
+    font-family: Helvetica;
+    width: 100vw;
+    height: 100vh;
+    align-items: center;
+}
+
+.post{
+    width: 500px;
+}
+
+.html5{
+width: 35px;
+height: 35px;
+margin: 20px 5px 20px 20px;
+}
+
+.trespuntos{
+    margin: 20px;
+    width: 40px;
+    height: 40px;
+}
+
+.title1{
+    text-align: left;
+}
+
+.Jorge{
+    color: #7b7b7b
+}
+
+.post-header{
+    background-color: white;
+    border-radius: 5px;
+}
+
+.iconosytextos{
+    display: flex;
+    justify-content: space-between;
+}
+
+.iconohtml5ytextos{
+    display: flex;
+    align-items: center;
+
+}
+
+.post-icons{
+margin: 10px;
+}
+
+.grupodeiconos{
+    display: flex;
+    justify-content: space-between;
+}
+
+.heart{
+    margin: 2.5px;
+    width: 30px;
+}
+
+.comment{
+    margin: 2.5px;
+    width: 30px;
+}
+
+.send{
+    margin: 2.5px;
+    width: 30px;
+}
+
+.save{
+    margin: 5px;
+    width: 30px;
+}
+
+.realpost{
+    width: 500px;
+}
+
+.text1{
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-right: 10px;
+}
+
+.text2{
+    padding: 0px 0 20px 20px;
+}
